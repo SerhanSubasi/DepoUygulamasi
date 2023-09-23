@@ -96,7 +96,7 @@ public class Islemler {
         birim = scan.next();
         UrunTanimlama yeniUrun = new UrunTanimlama(urunIsmi, uretici, 0, birim, null);
         urunlistesi.put(urunId, yeniUrun);
-
+        System.out.println("SUCCESS");
     }
 
     //urunListele     ==> tanimlanan urunler listelenecek. urunun adeti ve raf numarasi tanimlama yapilmadiysa default deger gorunsun.
