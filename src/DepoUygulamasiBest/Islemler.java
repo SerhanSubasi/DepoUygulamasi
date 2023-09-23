@@ -7,7 +7,7 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.Set;
 
-/*
+
 public class Islemler {
 
     static Scanner scan = new Scanner(System.in);
@@ -146,4 +146,3 @@ private static void urunuRafaKoy() {
 
 
 }
-*/
