@@ -1,5 +1,5 @@
 package DepoUygulamasiBest;
-/*
+
 public class urunTanimlama {
 
     private String urunIsmi;
@@ -71,4 +71,3 @@ public class urunTanimlama {
                 '}';
     }
 }
-*/
